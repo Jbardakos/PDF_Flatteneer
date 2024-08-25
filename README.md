@@ -38,5 +38,3 @@ This project is open-source, available under [GNU General Public License v3.0], 
 Gratitude to the global community of developers and researchers, whose collaborative spirit and shared knowledge make such tools possible.
 
 ---
-
-This README aims to encapsulate the essence and functionality of your tool while reflecting the values and principles you uphold, Dr. Bardakos.
